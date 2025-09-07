@@ -1,4 +1,9 @@
 ## Hi, I'm Anna 👋
+## Contact me :speech_balloon:
+
+Get in touch wit me!
+
+:e-mail: <a href="ann28876@gmail.com">Send an e-mail</a>
 
 <!--
 **annabut08/annabut08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
