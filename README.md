@@ -24,9 +24,16 @@
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annabut08&show_icons=true&theme=tokyonight)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annabut08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--## Connect with me
-:e-mail: <a href="mailto:ann28876@gmail.com">Send an e-mail</a> 
--->
+## Connect with me
+<a href="https://instagram.com/annabut_">
+  <img align="left" alt="Anna | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+</a>
+<a href="https://linkedin.com/in/annabut">
+  <img align="left" alt="Anna | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+</a>
+<a href="mailto:ann28876@gmail.com">
+  <img align="left" alt="Anna | Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+</a>
 
 
 
