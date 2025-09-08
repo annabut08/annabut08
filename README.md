@@ -25,7 +25,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annabut08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Connect with me
-<a href="https://instagram.com/annabut_">
+<a href="https://instagram.com/annabut__">
   <img align="left" alt="Anna | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 </a>
 <a href="https://linkedin.com/in/annabut">
