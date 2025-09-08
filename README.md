@@ -28,7 +28,7 @@
 <a href="https://instagram.com/annabut__">
   <img align="left" alt="Anna | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 </a>
-<a href="https://linkedin.com/in/annabut">
+<a href="[https://linkedin.com/in/annabut](https://www.linkedin.com/in/anna-but/)">
   <img align="left" alt="Anna | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 <a href="mailto:ann28876@gmail.com">
