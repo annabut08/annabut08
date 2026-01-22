@@ -1,20 +1,46 @@
 ## Hi, I'm Anna <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-## GitHub Stats
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annabut08&show_icons=true&theme=tokyonight)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annabut08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 **Junior Data Analyst**  
+📊 Passionate about data, insights, and visualization  
+---
 
-<!--
-**annabut08/annabut08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
 
-Here are some ideas to get you started:
+**Data Analysis & Processing**
+- Python (Pandas, NumPy)
+- SQL
+- Excel / Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Visualization**
+- Matplotlib
+- Seaborn
+- Power BI / Tableau
+
+**Databases**
+- PostgreSQL
+- MSSQL
+
+**Tools**
+- Jupyter Notebook
+- Git & GitHub
+- VS Code
+
+---
+
+### 📊 GitHub Stats
+
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annabut08&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annabut08&theme=tokyonight&layout=compact)
+
+---
+
+### 🌱 Currently Learning
+- Advanced SQL queries
+- Data visualization best practices
+- Statistical analysis basics
+
+---
+
+### 📫 Contact
+- GitHub: [@annabut08](https://github.com/annabut08)
